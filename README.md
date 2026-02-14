@@ -10,6 +10,8 @@ Designed using Autodesk Fusion 360.
 - Maintain compact footprint
 - Design fully mechanical linkage (no electronics modeled)
 
+![Top View](IMAges/Screenshot-2026-02-14-145055.png)
+
 ## Mechanism Description
 The system consists of:  
 - Dual spur gears (24 teeth)
