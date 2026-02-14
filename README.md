@@ -10,7 +10,7 @@ Designed using Autodesk Fusion 360.
 - Maintain compact footprint
 - Design fully mechanical linkage (no electronics modeled)
 
-![Gripper](Images/Gripper.png)
+![Gripper](IMAges/Gripper.png)
 
 ## Mechanism Description
 The system consists of:  
